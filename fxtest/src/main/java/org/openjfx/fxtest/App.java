@@ -23,8 +23,8 @@ public class App extends Application {
 		Group root = new Group();
 		Scene scene = new Scene(root, Color.BLACK);
 		
-		Image icon = new Image("icon.png");
-		stage.getIcons().add(icon);
+		//Image icon = new Image("icon.png");
+		//stage.getIcons().add(icon);
 		stage.setTitle("Stage Demo Program");
 		stage.setHeight(420);
 		stage.setWidth(420);
